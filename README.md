@@ -2,7 +2,7 @@
 
 Lore Callouts is a callout pack for [LSPDFR](https://www.lcpdfr.com/lspdfr/index/) designed with the intention to be minimalistic and non-intrusive, offering users huge freedom and depth at the same time.
 
-### Features
+### Documentation
 
 [Callouts](https://github.com/ZPhDevs/Lore-Callouts/wiki/Callouts/)
-[Subsystems]
+[Subsystems](https://github.com/ZPhDevs/Lore-Callouts/wiki/Subsystems/)
