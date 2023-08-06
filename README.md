@@ -8,4 +8,4 @@ Lore Callouts is a callout pack for [LSPDFR](https://www.lcpdfr.com/lspdfr/index
 
 [Scripts](https://github.com/ZPhDevs/Lore-Callouts/wiki/Scripts/)
 
-[Folder structure](https://github.com/ZPhDevs/Lore-Callouts/wiki/Folderstructure/)
+[Folder structure](https://github.com/ZPhDevs/Lore-Callouts/wiki/Folder-structure/)
