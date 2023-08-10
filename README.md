@@ -2,7 +2,7 @@
 
 # Description
 
-Lore Callouts is a callout pack for [LSPDFR](https://www.lcpdfr.com/lspdfr/index/) designed with the intention to be minimalistic and non-intrusive, offering users huge freedom and depth at the same time. Current version for this plugin is 1.1.6.
+Lore Callouts is a callout pack for [LSPDFR](https://www.lcpdfr.com/lspdfr/index/) designed with the intention to be minimalistic and non-intrusive, offering users huge freedom and depth at the same time. Current version for this plugin is 1.1.7.
 
 ## Disclaimer
 This page may contain information about future releases.
